@@ -110,7 +110,7 @@ textarea {
 /* Light Theme */
 :root {
     --bg-color: #f5f5f5;
-    --text-color: #333333;
+    --text-color: white;
     --btn-bg: #6200ee;
     --btn-hover: #7c4dff;
 }
